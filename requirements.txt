@@ -1,0 +1,33 @@
+# Core Libraries
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+numpy==1.24.3
+scipy==1.10.1
+scikit-learn==1.2.2
+pandas==2.0.1
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# For influence and attack evaluation
+tqdm==4.65.0
+statsmodels==0.14.0
+
+# Image processing
+Pillow==9.5.0
+opencv-python==4.7.0.72
+
+# Privacy / attack simulations
+adversarial-robustness-toolbox==1.15.1
+foolbox==3.3.3
+
+# Logging / configuration
+pyyaml==6.0
+jsonlines==3.1.0
+
+# CUDA/cuDNN Compatibility (Optional)
+nvidia-cudnn-cu11==8.9.4.25 ; platform_system=="Linux"
+
+# Optional for Jupyter
+ipython==8.13.2
+notebook==6.5.4
