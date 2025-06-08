@@ -32,7 +32,7 @@ Multi-label unlearning introduces new difficulties not present in the single-lab
 ---
 
 # Appendix Material (Beyond Main Paper)
-Due to ECML PKDD formatting constraints, theoretical guarantees and algorithmic details have been placed in the _appendix/_ directory, including:
+Due to ECML PKDD formatting constraints, theoretical guarantees and algorithmic details have been placed in the Appendix.pdf that includes:
 
 📐 **Appendix A:** Theoretical privacy proofs for Weight Filtering and Pruning
 
